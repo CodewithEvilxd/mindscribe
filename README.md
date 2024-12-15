@@ -1,7 +1,7 @@
 # MindScribe 
 A pdf note taking tool to take notes while reading the pdf
 
-Demo : https://x.com/Hi_Mrinal/status/1854562731761848774
+Demo : 
 
 Steps to use the project 
 - Drop your Pdf in the drop section 
