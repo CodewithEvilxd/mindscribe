@@ -1,7 +1,7 @@
 # MindScribe 
 A pdf note taking tool to take notes while reading the pdf
 
-Demo : 
+Demo : https://mindscribe-xd.netlify.app/
 
 Steps to use the project 
 - Drop your Pdf in the drop section 
